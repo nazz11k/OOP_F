@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.OOP_F.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\nazik\prooo\OOP_F\.idea\.idea.OOP_F\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

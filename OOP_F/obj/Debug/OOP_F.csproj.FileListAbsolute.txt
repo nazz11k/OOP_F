@@ -1,0 +1,6 @@
+C:\Users\nazik\prooo\OOP_F\OOP_F\bin\Debug\OOP_F.exe
+C:\Users\nazik\prooo\OOP_F\OOP_F\bin\Debug\OOP_F.pdb
+C:\Users\nazik\prooo\OOP_F\OOP_F\obj\Debug\OOP_F.csprojAssemblyReference.cache
+C:\Users\nazik\prooo\OOP_F\OOP_F\obj\Debug\OOP_F.csproj.CoreCompileInputs.cache
+C:\Users\nazik\prooo\OOP_F\OOP_F\obj\Debug\OOP_F.exe
+C:\Users\nazik\prooo\OOP_F\OOP_F\obj\Debug\OOP_F.pdb
